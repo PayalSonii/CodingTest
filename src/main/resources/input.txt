@@ -1,0 +1,5 @@
+This ASCII value represents the character variable
+in numbers, and each character variable is assigned with
+some number range from 0 to 127. For example, the ASCII value
+ of 'C' is 67. Here in the above example, if we assign 'C'
+to the character variable, 67 is stored in the variable rather than 'A' itself.
